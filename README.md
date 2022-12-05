@@ -9,7 +9,7 @@
 * [0x05 Usage](#0x05-Usage)
 * [0x06 Authors](#0x06-Authors)
 
-## 0x01 Introduction
+## 0x01 Introduction 
 
 Team project to build a clone of [AirBnB](https://www.airbnb.com/).
 
@@ -265,17 +265,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Ayomide Suara</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Samfrodo9">Github</a></li>
+    <li><a href="https://www.twitter.com/SamfrodoJW">Twitter</a></li>
+    <li><a href="mailto:adeyemifrodo@gmail.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Bamidele Adefolaju</summary>
-    <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-
